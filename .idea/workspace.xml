@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b6c352e-7e2e-4377-a229-dad6e6f3f105" name="Changes" comment="Задача1">
+    <list default="true" id="2b6c352e-7e2e-4377-a229-dad6e6f3f105" name="Changes" comment="Задача1 выполнена">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692276138946</updated>
-      <workItem from="1692276140029" duration="1999000" />
+      <workItem from="1692276140029" duration="3148000" />
     </task>
     <task id="LOCAL-00001" summary="Задача1">
       <option name="closed" value="true" />
@@ -51,7 +51,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692277252136</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Задача1 выполнена">
+      <option name="closed" value="true" />
+      <created>1692278547976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692278547976</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,6 +67,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Задача1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача1" />
+    <MESSAGE value="Задача1 выполнена" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача1 выполнена" />
   </component>
 </project>
